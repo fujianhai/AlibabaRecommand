@@ -1,9 +1,5 @@
-# AlibabaRecommand
- Alibaba 2015 mobile recommending algorithm competition.
+机器学习框架
  
-## [比赛介绍](http://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.333.2.YI657c&raceId=1)
-通过对用户在移动终端上一个月的行为数据进行分析，为后一天的用户购买行为作出预测，进行推荐。
-
 ##目录结构
 
 ```
@@ -76,12 +72,8 @@ s取值范围是整个实数域,f(x)单调递增。而逻辑斯蒂回归用
 
 来逼近上面的目标函数。其中,x为要预测的样本,w为训练出的模型向量(w和x的维度相同)。h是算得的样本概率。
 
-##说明
-这只是一个流程和预测的框架，特征工程很多地方还需要改善。
 
-##版本
-```
-├── master    #版本一，采取11维特征
-└── branch1   #版本二，采取19维特征
-```
+
+
+
 
